@@ -1,5 +1,5 @@
 import numpy as np
-n = 1000
+n = 10000
 
 x = np.random.rand(n)
 y = np.random.rand(n)
